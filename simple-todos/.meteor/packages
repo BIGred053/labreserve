@@ -24,3 +24,5 @@ accounts-facebook
 accounts-google
 service-configuration
 google-config-ui
+practicalmeteor:mocha
+practicalmeteor:chai
